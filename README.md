@@ -1,3 +1,9 @@
+# polymer-first-app
+
+https://auth0.com/blog/build-your-first-app-with-polymer-and-web-components/
+
+In order to have this app running you have to Clone the NodeJS JWT Authentication sample repo (https://github.com/auth0-blog/nodejs-jwt-authentication-sample) and follow the instructions in the README to get it up and running on http://localhost:3001.
+
 # Polymer App Toolbox - Starter Kit
 
 [![Build Status](https://travis-ci.org/Polymer/polymer-starter-kit.svg?branch=master)](https://travis-ci.org/Polymer/polymer-starter-kit)
